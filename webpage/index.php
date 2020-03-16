@@ -1,4 +1,4 @@
-?php
+<?php
 $name = $email = $username = $password = $confirm_password = $date_of_birth = $gender = $marital_status = $address = $overall_gpa = "";
 $city = $postal_code = $home_phone = $mobile_phone = $credit_card_number = $credit_card_expiry_date = $monthly_salary = $web_site_url = "";
 $is_valid = TRUE;
